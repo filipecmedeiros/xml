@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<!ELEMENT locais (local+)>
+	<!ELEMENT local (id, nome, capacidade)>
+		<!ELEMENT id (#PCDATA)>
+		<!ELEMENT nome (#PCDATA)>
+		<!ELEMENT capacidade (#PCDATA)>
+		

@@ -1,0 +1,35 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/css" href="local.css"?>
+
+<!-- 
+<!DOCTYPE local SYSTEM "local.dtd">
+<local xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="local.xsd">
+-->
+<locais xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="local.xsd">
+<locais>
+	<local>
+		<id>1</id>
+		<nome>Maracana</nome>
+		<capacidade>700000</capacidade>
+	</local>
+
+	<local>
+		<id>2</id>
+		<nome>Estadio Olimpico</nome>
+		<capacidade>400000</capacidade>
+	</local>
+
+	<local>
+		<id>3</id>
+		<nome>Pontal</nome>
+		<capacidade>250000</capacidade>
+	</local>
+
+	<local>
+		<id>4</id>
+		<nome>Riocentro</nome>
+		<capacidade>300000</capacidade>
+	</local>
+
+</locais>
+</locais>
